@@ -1,5 +1,6 @@
 # 🎇 Aiffelthon : 기획안 개발 축제(PoC Lab)
-<a href="https://www.notion.so/0611ec61a62e4513b987ffa89dec0a96?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+개인 페이지: <a href="https://www.notion.so/0611ec61a62e4513b987ffa89dec0a96?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<br></br> 협업페이지 : <a href="https://www.notion.so/macondo0101/Final-Project-6c0b745a8a5a4bb99d1073a1d0473675?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 - 16 / Feb / 2023 : 최종 기획안 발표
 - 16 / Feb / 2023 ~ 24 / Feb / 2023 : Mini Aiffelthon • • •🏃‍
 - 24 / Feb / 2023 ~ 29 / Mar / 2023 : Aiffelthon
