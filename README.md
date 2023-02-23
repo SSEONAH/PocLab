@@ -7,7 +7,8 @@
 - 31 / Mar / 2023 : 최종 발표
 
 ---
-
+- 0215 : 팀빌딩 진행 
+- 0216 ~ 0221 : 자료 searching 
 - 0222 : backtranslation data 각 reg별 100개씩 추출 후 test_set 으로 합치기 완료
 - 0223 :
   - raw set에서 test set 걸러낸 후 train set 생성 완료 
