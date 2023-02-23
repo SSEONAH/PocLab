@@ -9,4 +9,7 @@
 ---
 
 - 0222 : backtranslation data 각 reg별 100개씩 추출 후 test_set 으로 합치기 완료
-- 0223 : raw set에서 test set 걸러낸 후 train set 생성 완료 / 말뭉치 넣었을 때 가장 유사한 topic을 추출하는 model code setting • • •🏃‍
+- 0223 :
+  - raw set에서 test set 걸러낸 후 train set 생성 완료 
+  - 말뭉치 넣었을 때 가장 유사한 topic을 추출하는 model setting • • •🏃‍
+  - NLI model 허깅페이스에서 searching > https://github.com/snunlp/KR-SBERT
