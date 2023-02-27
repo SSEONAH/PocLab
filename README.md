@@ -19,3 +19,5 @@
   - 승용님이 주신 KR-SERT model 세팅하고 돌려보는 작업 
 - 0227 :
   - • • •🏃‍
+  - sentence_transformers download 
+  - 
