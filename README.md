@@ -20,5 +20,5 @@
 - 0227 :
   - sentence_transformers download 
   - 3개 NLI model 돌려보고 비교 작업 ( ddobokki / snunlp/KR-SBERT / Huffon/klue ) 
- - 0228 : 
-  - 다른 NLI model 찾아보기 • • •🏃‍ 
+ - 0228 :
+   - 다른 NLI model 찾아보기 • • •🏃‍ 
