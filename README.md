@@ -21,6 +21,10 @@
   - sentence_transformers download 
   - 3개 NLI model 돌려보고 비교 작업 ( ddobokki / snunlp/KR-SBERT / Huffon/klue ) 
  - 0228 :
-   - 다른 NLI model 찾아보기 • • •🏃‍ 
+   - 다른 NLI model 찾아보기  
       - https://huggingface.co/klue/roberta-large
       - https://github.com/jjonhwa/KLUE-NLI
+- 0305 :
+  - 전체 회의 없음 
+  - meta_data_included_raw 데이터 전처리 작업 • • •🏃‍
+    - 
