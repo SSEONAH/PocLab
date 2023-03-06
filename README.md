@@ -35,3 +35,4 @@
       - 전체적인 내용을 보면 일상적인 대화가 이어지는 내용이랑 문장안에 특정 단어가 자주 나오지 않음 > 어려울거라 예상 
       - 문장을 input으로 넣으면 관련된 topic을 추출하는 방식? 
         - https://github.com/lovit/KR-WordRank
+    - ddobokki model로 유사도 측정 
