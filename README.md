@@ -88,3 +88,4 @@
   - 15시 멘토 meeting 진행 
   - 궁금점 생김 명일 승용님께 질문하기 
   
+ https://www.sbert.net/
