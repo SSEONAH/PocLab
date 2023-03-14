@@ -84,7 +84,7 @@
 
 - 0309 : 
   - 당일 계획 공유 
-    - 전일 seq_length 작업 마무리 • • •🏃‍
+    - 전일 seq_length 작업 마무리 
   - 15시 멘토 meeting 진행 
   - 궁금점 생김 명일 승용님께 질문하기 
   
@@ -102,6 +102,23 @@
   - 당일 계획 공유 
     - 유사도 확인 작업 오후 2시까지 마무리 
     - 3시부터 GCP관련 미팅 
-  - 
+  - reg / topic roof문으로 embedding값 구하기 
+    - kw / 가족 데이터로 진행 
+    - embedding 값으로 (=100) 유사도 측정 
+      - 문장간 유사도 matrix
+      - numpy.diag_indices() 
+    - 같은 문장의 유사도 값을 구한 부분을 제외하고 min/max 값 구하기 
+      - matrix 대각선 값의 avg
+      - https://numpy.org/doc/stable/reference/generated/numpy.diag_indices.html
+  
+  
+- 0314 : 
+  - 당일 계획 공유 
+    - embedding값으로 유사도 측정 
+  - konlpy.okt로 한문장씩 넣어서 유사도를 측정 해보려고 했다 
+    - list라서 readline() 함수가 적용이 안됨 
+    - list를 txt 파일로 변경하려고 해봤는데 실패 
+  - 승용님이 참고하라고 주신 코드로 matrix로 만들어서 embedding값 구함 
+    - 
   
 
