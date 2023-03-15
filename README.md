@@ -141,5 +141,9 @@
    	- 회의 
 		- Multilingualism translation / raw resource > 문제점 
 		- EDA 데이터 씹뜯맛즐 
+		- EDA 관련 자료 검색 
+			- 데이터에 어떤 문제가 있는지 
+			- 그 데이터를 갖고 어떤 방식으로 진행해야하는지 
+		
   
 
