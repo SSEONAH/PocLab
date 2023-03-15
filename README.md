@@ -139,6 +139,7 @@
 	- meta > reg 분류 작업 완료 
 		- for문으로 40개나 되는 topic을 어떻게 나눠야할까? 
    	- 회의 
-		- 다중언어 / 로우 리소스
+		- Multilingualism translation / raw resource > 문제점 
+		- EDA 데이터 씹뜯맛즐 
   
 
