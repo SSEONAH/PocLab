@@ -182,3 +182,17 @@
 			- 스페이스바 , 문장기호 등 확인 작업 
 			- remove 했는데도 그래프에 큰 변화가 없음 
 				- 확인 작업 필요 
+
+- 0322 : 
+    - spm , msp 데이터 n-gram ( unigram , bigram , Trigram ) 사용하여 kdeplot으로 시각화 
+        - 지역별로 어떤 값에서 분산이 큰지 확인하기위해 
+        - Bigram , Trigram에서 지역별로 차이가 확실하게 보임 
+          
+    - 코드작성에 어려움이 있어서 승용님께서 도와주심 
+    
+- 0323 : 
+    - push를 깜빡하고 안했더니 파일이 다 날아가서 다시 작성중 .. 
+    - 이전 작업 후 추가된 파일에 대해서 barplot 작성
+        - custom_msp, msp_8000 data 
+        - unk count, subword fertility , proportion of continued words 
+    
