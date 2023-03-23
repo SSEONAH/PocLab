@@ -192,7 +192,17 @@
     
 - 0323 : 
     - push를 깜빡하고 안했더니 파일이 다 날아가서 다시 작성중 .. 
-    - 이전 작업 후 추가된 파일에 대해서 barplot 작성
-        - custom_msp, msp_8000 data 
-        - unk count, subword fertility , proportion of continued words 
+        - Trigrams, Bigrams 두 그래프 순서 변경 
+        - 색상 변경 요청 > cc, jd 구별 필요 
+    - 이전 작업 후 추가된 파일에 대해서 3가지 작업 진행 
+        - 추가된 파일 : custom_msp, msp_8000 data 
+        - 진행 작업 : unk count, subword fertility , proportion of continued words 
+            - 결과값과 그래프상 숫자 일치여부 확인 
+            - unk count > 8000data > spm값이 23259088 > 확인 필요 
+    - Unigram , Trigrams, Bigrams 결과물 막대그래프 > 워드 클라우드로 작업
+        - 발표자료에 막대그래프가 다 안들어가서 워드클라우드로 작업 요청 
+            
+- 0324 : 
+    - 멘토링 
+    
     
