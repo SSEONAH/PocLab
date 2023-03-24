@@ -204,5 +204,6 @@
             
 - 0324 : 
     - 멘토링 
+    - https://jamboard.google.com/d/158KoSUYsTH3wGbBFM2-ZxREvDSLPXyGCCnXUcXRVg6Q/viewer?f=3
     
     
