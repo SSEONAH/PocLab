@@ -206,4 +206,22 @@
     - 멘토링 
     - https://jamboard.google.com/d/158KoSUYsTH3wGbBFM2-ZxREvDSLPXyGCCnXUcXRVg6Q/viewer?f=3
     
+- 0327 ~ 0328 
+    - vocab_size : 8000만 사용 
+    - test_data , train_data 다시 만들어주셔서 그 데이터로 데이터 EDA진행 
+    - EDA 
+        - 지역별 데이터 분포 
+        - topic별 데이터 분포 
+        - 문장 최대 길이 
+        - reg, topic, tok_len 평균
+        - spm , msp , custom_msp 
+            - unigram, Bigrams, Trigrams 
+            - kdeplot 
+            - wordcloud 
+                - wordcloud > Bigrams, Trigrams 잘 안나와서 명일 승용님한테 질문 예정 
+     - 효원님 피드백 
+         - kdeplot legend부분 크기 조절 
+         - 데이터 EDA 자료 
+         
+    
     
