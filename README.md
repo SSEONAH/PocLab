@@ -223,5 +223,13 @@
          - kdeplot legend부분 크기 조절 
          - 데이터 EDA 자료 
          
+ - 0329 : 
+     - 멘토링 
+     - wordcloud 승용님이 코드 수정해서 주신거 코드 돌려봄 
+         - cloud에서 자꾸 ValueError: We need at least 1 word to plot a word cloud, got 0. 에러 발생 
+             - css가 비어있고 , unigram에서 사용했던 regs가 밑에 코드로 내려옴 
+                 - regs = df_train.reg.unique() 넣어서 오류 잡아줌 
+        - bigrams, Trigrams 에서 지역별 사투리 특성을 잘 나타내주는 토큰들이 있다고는 보이지 않음 
+         
     
     
