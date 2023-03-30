@@ -230,6 +230,17 @@
              - css가 비어있고 , unigram에서 사용했던 regs가 밑에 코드로 내려옴 
                  - regs = df_train.reg.unique() 넣어서 오류 잡아줌 
         - bigrams, Trigrams 에서 지역별 사투리 특성을 잘 나타내주는 토큰들이 있다고는 보이지 않음 
-         
+    
+ - 0330 : 
+     - 구글 슬라이드에 올라온 피드백 반영해서 시각화 다시 하기 
+         - kdeplot > 첫 행은 unigram, 두번째는 bigram, 세번째는 trigram
+         - wordcloud
+             - 토크나이저 별로 결과가 어떻게 다르게 나오는지 / 토큰별로 비교할 수 있게 
+         - Train , test data 데이터 개수 / per
+             - 한 그래프에 길이랑 퍼센트가 다 나오는 방식
+         - len distribution
+             - y축 범위를 동일하게 해서 출력
+         - Count by Topic(%) 제목 수정
+         - 히트맵 같은 경우 seq length > char len로 그래프로 시각화 
     
     
