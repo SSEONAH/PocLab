@@ -244,3 +244,10 @@
          - 히트맵 같은 경우 seq length > char len로 그래프로 시각화 
     
     
+    
+ - 0331 : 
+ 	- EDA 파일 잘못 불러와서 spm16000데이터 경로 재설정 후 그래프 재출력
+ 	- 아이펠톤 발표 완료 
+		- https://docs.google.com/presentation/d/1gCV6pQudUJVnuIDKXRbhF84OROsjF8IuY0kQGD7U-mE/edit#slide=id.g228d6ddd591_2_0
+	- https://padlet.com/jungwooil/1-88n1vak9ohu1qsna
+	- 한 달 동안 아이펠톤 하면서 많이 배웠는데 이 배움을 잊지않으려면 더 열심히 공부해야겠다 ! :) 
